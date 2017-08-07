@@ -3,7 +3,7 @@ WojakCoin integration/staging tree
 
 http://www.wojakcoin.org
 
-Copyright (c) 2009-2013 WojakCoin Developers
+Copyright © 2017 WojakCoin Developers
 
 What is WojakCoin?
 ----------------
